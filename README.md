@@ -16,10 +16,10 @@ Postal address: Naturalis Biodiversity Center, Darwinweg 2, 2333 CR Leiden, the 
 
 Ecological regime shifts in the marine realm have been recorded from a variety of systems and locations around the world. Coral reefs have been especially affected, with their benthic habitat changing from a dominance of stony corals to a dominance of other organisms such as fleshy algae. To detect changes in the benthic habitat of coral reefs, simple tools applicable on a global scale are necessary for future monitoring programs. Hence, the aim of this research is to explore the hypothesis that shifts in assemblages of large benthic foraminifera (LBF) can detect early signs of degradation in the reef benthic habitat. To do so, data on living assemblages of LBF collected between 1997 and 2018 at 12 islands in the Spermonde Archipelago (South Sulawesi, Indonesia) were analyzed. Foraminiferal specimens were morphologically identified to the species level and statistical analyses performed to assess changes in their assemblage composition. A clear temporal shift happened. Typical foraminiferal assemblages in a coral-dominated (e.g., Amphistegina lobifera, Calcarina spengleri, Heterostegina depressa) and fleshy algae-dominated (e.g., Neorotalia gaimardi, C. mayori) reef habitats were identified and significantly linked to the substrate type. Other species (e.g., Elphidium spp., Peneroplis planatus and Sphaerogypsina globulus) seem to reflect a spatial and temporal gradient of anthropogenic pollution from local inhabited islands and ongoing urban development on the mainland. Hence communities of LBF consistently shift to persistent, gradual shifts in environmental conditions. Additionally to foraminiferal assemblages being an indicator for actual reef condition, closely monitoring LBF may provide early information on reef degradation, in time to take action against identified stressor (e.g., eutrophication or intensive fishing) at local and regional scales. The circumtropical distribution of LBF is such that they can be included worldwide in reef monitoring programs, conditional to regional species calibration. 
 
-# Key words: 
+## Key words: 
 temporal dynamics, bioindicator, early detection, coral reef, Spermonde Archipelago, Indonesia
 
-# Supplementary files (R code and dataset) - How-to-do
+# Supplementary files (R code and dataset): How-to-do
 1. Download the dataset folder and the R code
 2. Open R studio and the R code file
 3. Run the section or the analysis of the code that is of interest
