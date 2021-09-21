@@ -7,7 +7,7 @@ b IBED, University of Amsterdam, Sciencepark 904, 1098 XH Amsterdam, the Netherl
 c Department of Ecology, Leibniz Center for Tropical Marine Ecology, Fahrenheitstraße 6, 28359 Bremen, Germany
 d Marine Science Department, Faculty of Marine Science and Fisheries, Hasanuddin University, Jl. Perintis Kemerdekaan Km. 10 Tamalenrea, Makassar, 90245, Indonesia
 
-# Corresponding author: 
+## Corresponding author: 
 Elsa B. Girard 
 Email: elsa.girard@naturalis.nl
 Postal address: Naturalis Biodiversity Center, Darwinweg 2, 2333 CR Leiden, the Netherlands
