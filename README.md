@@ -28,4 +28,4 @@ temporal dynamics, bioindicator, early detection, coral reef, Spermonde Archipel
 1. Download the dataset folder and the R code
 2. Open R studio and the R code file
 3. Run the section or the analysis of the code that is of interest
-
+4. Cite us :-) Thank you!
