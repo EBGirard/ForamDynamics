@@ -1,3 +1,7 @@
+# Please cite us if you use any of our data: 
+
+
+
 # Dynamics of large benthic foraminiferal assemblages: a tool to foreshadow reef degradation?
 
 Elsa B. Girard a,b, Estradivari c,d, Sebastian Ferse c,d, Rohani Ambo-Rappe e, Jamaluddin Jompa e & Willem Renema a,b
