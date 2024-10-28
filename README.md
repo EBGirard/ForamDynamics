@@ -29,3 +29,7 @@ temporal dynamics, bioindicator, early detection, coral reef, Spermonde Archipel
 2. Open R studio and the R code file
 3. Run the section or the analysis of the code that is of interest
 4. Cite us, thank you :-)
+
+# Citation
+
+Girard, E.B., Estradivari, Ferse, S., Ambo-Rappe, R., Jompa, J., Renema, W., 2022. Dynamics of large benthic foraminiferal assemblages: A tool to foreshadow reef degradation? Sci. Total Environ. 811, 151396.
